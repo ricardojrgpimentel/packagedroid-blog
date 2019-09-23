@@ -80,8 +80,15 @@ theme: anatole
 deploy:
   type:
 
+# Archive
 archive_generator:
   per_page: 0  
   yearly: false
   monthly: false
   daily: false
+
+# Comments
+disqus: packagedroid
+
+# Avatar
+avatar: /images/avatar.jpeg
