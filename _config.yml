@@ -39,9 +39,9 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
   
 # Home page setting
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anatole
+theme: obsidian
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -92,3 +92,10 @@ disqus: packagedroid
 
 # Avatar
 avatar: /images/avatar.jpeg
+
+# Use codemirror instead of highlight js for better color syntax
+# if you want more language support check the modes list at official website
+# modes see: https://codemirror.net/mode/
+# see https://codemirror.net/
+codemirror:
+  modes: ['javascript', 'css', 'xml', 'htmlmixed', 'clike', 'php', 'shell', 'python']

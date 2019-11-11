@@ -1,7 +1,12 @@
 ---
 title: Bloquear anúncios com Raspberry Pi Zero e Pi-Hole
 date: 2019-09-22 17:03:19
-tags: raspberry, pi-hole
+tags: 
+  - raspberry
+  - pi-hole
+categories: 
+  - Tutorial
+  - Raspberry Pi
 ---
 
 A finalidade desde projeto passa por bloquear, ao nível do DNS, os seguintes serviços web:

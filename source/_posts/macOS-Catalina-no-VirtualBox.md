@@ -1,7 +1,12 @@
 ---
 title: mac OS Catalina no VirtualBox
 date: 2019-11-05 09:46:54
-tags:
+tags: 
+  - macOS
+  - virtualbox
+categories: 
+ - Tutorial
+ - Sistemas Operativos
 ---
 
 A utilização do sistema operativo MacOS encontra-se limitado apenas às máquinas certificadas da Apple.
