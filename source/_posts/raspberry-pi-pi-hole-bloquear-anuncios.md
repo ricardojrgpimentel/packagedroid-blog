@@ -7,6 +7,7 @@ tags:
 categories: 
   - Tutorial
   - Raspberry Pi
+cover: https://packagedroid.com/2019/09/22/raspberry-pi-pi-hole-bloquear-anuncios/20190922_172207.jpg
 ---
 
 A finalidade desde projeto passa por bloquear, ao nível do DNS, os seguintes serviços web:

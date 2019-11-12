@@ -41,9 +41,9 @@ page_titles:
 
 # Social media links
 socials:
-  github: "https://github.com/TriDiamond"
-  twitter: "https://twitter.com/TriDiamond6"
-  stackoverflow: "https://stackoverflow.com/users/7602324/tridiamond?tab=profile"
+  github: "https://github.com/ricardojrgpimentel"
+  twitter: "https://twitter.com/rcdpimentel"
+  stackoverflow: "https://wordpress.stackexchange.com/users/82181/ricardo-pimentel?tab=profile"
 
 # Enable table of content
 TOC: true
@@ -61,11 +61,10 @@ avatar: https://res.cloudinary.com/tridiamond/image/upload/v1573019751/TriDiamon
 scrollbar: true
 
 # Website keywords used for SEO
-keywords: TriDiamond Obsidian
+keywords: Packagedroid Blog
 
 # Website slogans
 descriptionOne: "Think like an artist, develop like an artisan"
-descriptionTwo: "艺术家思维去思考问题，工匠创造精神去开发"
 
 # If you use google analytics, please fill in the ID
 google_analytics: 'UA-149874671-1'
@@ -84,8 +83,8 @@ rss: atom.xml
 autoplay: false
 
 # default mp3 file
-mp3:
-  - statics/chengdu.mp3
+# mp3:
+#  - statics/chengdu.mp3
 
 # ---------------------------------------------------------------
 # Plugins

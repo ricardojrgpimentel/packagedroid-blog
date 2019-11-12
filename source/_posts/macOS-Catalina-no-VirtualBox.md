@@ -7,6 +7,7 @@ tags:
 categories: 
  - Tutorial
  - Sistemas Operativos
+cover: https://packagedroid.com/2019/11/05/macOS-Catalina-no-VirtualBox/vm17.jpg
 ---
 
 A utilização do sistema operativo MacOS encontra-se limitado apenas às máquinas certificadas da Apple.
