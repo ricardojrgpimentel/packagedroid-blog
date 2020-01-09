@@ -92,7 +92,7 @@ autoplay: false
 # Gitalk comment plugin
 # see https://github.com/gitalk/gitalk
 gitalk:
-  enable: false
+  enable: true
   autoExpand: true
   clientID: 'dfe2fd14eb788f3af07d'
   clientSecret: 'a13fc954721318e750273ca1589b2a7505e93fb0'
@@ -106,7 +106,7 @@ gitalk:
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
 valine:
-  enable: true
+  enable: false
   app_id: IWiMk8Vjva10DAkBFjrLY2qA-MdYXbMMI
   app_key: QaQkCa9XunecAiIqzvmQguB3
   notify: true
