@@ -92,7 +92,7 @@ autoplay: false
 # Gitalk comment plugin
 # see https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   autoExpand: true
   clientID: 'dfe2fd14eb788f3af07d'
   clientSecret: 'a13fc954721318e750273ca1589b2a7505e93fb0'
@@ -106,13 +106,13 @@ gitalk:
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
 valine:
-  enable: false
-  app_id: QHCOIEBlyjBUMAjaE5ilzafk-gzGzoHsz
-  app_key: ggeGwz8ypB9uiAIYSRH5T0PF
-  notify: false
+  enable: true
+  app_id: IWiMk8Vjva10DAkBFjrLY2qA-MdYXbMMI
+  app_key: QaQkCa9XunecAiIqzvmQguB3
+  notify: true
   verify: false
-  avatar: 'mp'
-  placeholder: 'Leave your throughs behind~'
+  avatar: 'robohash'
+  placeholder: 'Questões e feedback são uma mais valia'
   visitor: true
 
 # Enable symbols-count-time plugin
@@ -149,7 +149,7 @@ busuanzi:
 #Enable social media sharing
 sharejs:
   enable: true
-  disabled: 'facebook,douban,linkedin,diandian,tencent,google'
+  disabled: 'douban,diandian,tencent,qzone,qq,weibo'
 
 # Use codemirror instead of highlight js for better colors
 # if you want more language support check the modes list at official website
