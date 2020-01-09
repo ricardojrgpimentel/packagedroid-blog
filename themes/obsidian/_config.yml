@@ -20,7 +20,7 @@
 #! ---------------------------------------------------------------
 
 # Theme version
-version: "1.4.2"
+version: "1.4.3"
 
 # ---------------------------------------------------------------
 # Theme default settings
@@ -157,3 +157,6 @@ sharejs:
 # see https://codemirror.net/
 codemirror:
   modes: ['javascript', 'css', 'xml', 'htmlmixed', 'clike', 'php', 'shell', 'python']
+
+# Enabling mathjax support
+mathjax: true
