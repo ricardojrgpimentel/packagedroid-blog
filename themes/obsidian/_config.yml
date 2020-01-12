@@ -28,6 +28,7 @@ version: "1.4.3"
 
 # Menu setting | format = title_name: link_url
 menu:
+  FORUM: https://forum.packagedroid.com/
   CATEGORIAS: /categories
   TAGS: /tags
   ARQUIVO: /archives
