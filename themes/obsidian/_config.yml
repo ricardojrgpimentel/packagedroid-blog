@@ -67,7 +67,7 @@ keywords: Packagedroid Blog
 descriptionOne: "Think like an artist, develop like an artisan"
 
 # If you use google analytics, please fill in the ID
-google_analytics: 'UA-149874671-1'
+#google_analytics: 'UA-149874671-1'
 
 # Website favicon
 favicon: /img/favicon.png
