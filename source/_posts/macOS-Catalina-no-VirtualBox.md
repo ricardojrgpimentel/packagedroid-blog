@@ -147,3 +147,5 @@ Este comando irá finalizar a instalação do sistema operativo e concluir o tut
 ![finally](finally.jpg)
 
 Neste momento encontra-se configurada a máquina virtual com MacOS no VirtualBox
+
+Tópico de discussão: [Forum](https://forum.packagedroid.com/t/mac-os-catalina-no-virtualbox/14)

@@ -226,5 +226,4 @@ Com esta opção ligada será apresentada a opção de alteração do DNS, como 
 
 O DNS 1 corresponde ao IP do Raspberry e o DNS 2 a outro serviço de DNS, neste exemplo é usado o da Google.
 
-
-
+Tópico de discussão: [Forum](https://forum.packagedroid.com/t/bloquear-anuncios-com-raspberry-pi-zero-e-pi-hole/13)
