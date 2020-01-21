@@ -81,4 +81,12 @@ Caso tenham dado conta do assunto este deverá de ser o aspeto do mesmo:
 
 ![Windows Update](windows-update.jpg)
 
+## Tron Script
+
+O Tron Script é o conjunto de ferramentas, que permite realizar uma limpeza extremamente completa.
+A  utilização desta ferramenta é bastante simples, apesar de existir um modo avançado para o uso do mesmo.
+Devem de ter em conta que, ao executarem este utilitário, não podem cancelar a meio, sendo que demora cerca de **4 a 8 horas**!
+
+[Tron](https://github.com/bmrf/tron)
+
 Tópico de discussão: [Forum](https://forum.packagedroid.com/t/limpeza-e-optimizacao-do-windows/15)
