@@ -27,8 +27,8 @@ O objetivo final passa por ser apenas necessário executar um único utilitário
 O hardware usado neste projeto é o seguinte:
 
 * Computador com gráfica compativel com o MSI Afterburner
-* Raspberry pi 3 B+ 1GB
-* Monitor 4"
+* Raspberry pi 3 B+ 1GB (opcional)
+* Monitor 4" compativel com Raspberry (opcional)
 
 Esta é uma possivel solução, pois tudo depende das necessidades de software usadas neste projeto.
 
