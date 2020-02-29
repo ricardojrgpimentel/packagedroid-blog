@@ -194,3 +194,7 @@ Será apresentada uma lista com todas as métricas do vosso computador, basta en
 O resultado será algo deste género:
 
 ![Dashboard](dashboard_final.png)
+
+Dashboard a correr num raspberry:
+
+![raspberry](raspberry.jpg)
