@@ -1,0 +1,46 @@
+common:
+    archive:
+        one: 'Arquivo'
+        other: 'Arquivos'
+    category:
+        one: 'Categoria'
+        other: 'Categorias'
+    tag:
+        one: 'Tag'
+        other: 'Tags'
+    post:
+        one: 'Artigo'
+        other: 'Artigos'
+    prev: 'Anterior'
+    next: 'Próximo'
+widget:
+    follow: 'SEGUIR'
+    recents: 'Recentes'
+    links: 'Links'
+    tag_cloud: 'Nuvem de tags'
+    catalogue: 'Catálogo'
+    email:
+        title: 'Subscrever (Email)'
+        button: 'Subscrever'
+article:
+    more: 'Ler Mais'
+    comments: 'Comentários'
+    read: 'de leitura'
+    about: 'Cerca de'
+    words: 'palavras'
+donate:
+    title: 'Esta publicação foi útil? Partilha e ajuda o autor'
+    alipay: 'Alipay'
+    wechat: 'Wechat'
+    paypal: 'Paypal'
+    patreon: 'Patreon'
+search:
+    search: 'Procurar'
+    hint: 'Digita algo para procurar...'
+insight:
+    hint: 'Digita algo para procurar...'
+    posts: 'Artigos'
+    pages: 'Páginas'
+    categories: 'Categorias'
+    tags: 'Tags'
+    untitled: '(Sem título)'

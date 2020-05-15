@@ -7,12 +7,13 @@ tags:
 categories: 
  - Tutorial
  - Sistemas Operativos
-cover: https://packagedroid.com/2019/11/05/macOS-Catalina-no-VirtualBox/vm17.jpg
+thumbnail: /2019/11/05/macOS-Catalina-no-VirtualBox/vm17.jpg
 ---
 
 A utilização do sistema operativo MacOS encontra-se limitado apenas às máquinas certificadas da Apple.
 Isto faz com que seja quase impossivel testar o mesmo sem comprar um computador Apple.
 Este tutorial tem como finalidade possibilitar o teste do sistema operativo MacOS no virtualbox.
+<!-- more -->
 A instalação do MacOS no virtualbox é um pouco diferente do habitual, no que toca a instalação de sistemas operativos no virtualbox.
 
 De forma muito resumida, o [Virtualbox](https://www.virtualbox.org/) permite executar máquinas virtuais no vosso computador.
@@ -73,7 +74,7 @@ Com o ficheiro .iso pronto, precisamos agora de adicionar um novo disco virtual 
 Para isso precisam de fazer download do disco aqui:
 
 base64
-```shell
+```bash
 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSnZUdmFab0Nxajc0eHVjYm5xVG9XeUVWbWpTNzNGU2Qvdmlldz91c3A9c2hhcmluZw==
 ```
 
