@@ -8,14 +8,12 @@ tags:
 categories: 
  - Android
  - Sistemas Operativos
-thumbnail: /2020/04/18/instalacao-youtube-vanced/banner_youtube_vanced.png
+cover: https://packagedroid.com/2020/04/18/instalacao-youtube-vanced/banner_youtube_vanced.png
 ---
 
 O Youtube Vanced é uma versão do Youtube que permite utilizar vários recursos da versão Premium, entre eles a visualização sem interrupção para anúncios, visualização dos vídeos em segundo plano, com o ecrã bloqueado, etc...
 
 Nesta publicação vamos instalar o Vanced no sistema Android 10 (LineageOS 17.1).
-
-<!-- more -->
 
 # Instalação
 

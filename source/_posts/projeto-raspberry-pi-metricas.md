@@ -7,25 +7,15 @@ tags:
 categories: 
   - Tutorial
   - Raspberry Pi
-thumbnail: /2020/02/24/projeto-raspberry-pi-metricas/dashboard_final.png
+cover: https://packagedroid.com/2020/02/24/projeto-raspberry-pi-metricas/dashboard_final.png
 ---
 
-<article class='message message-immersive is-primary'>
-  <div class='message-body'>
-    <i class='fas fa-globe-asia mr-2'></i>
-    Versão Electron disponivel no Github: <a href='https://github.com/ricardojrgpimentel/raspberry-pc-metrics/releases'>Link</a>
-  </div>
-</article> 
-
-
-
 # DASHBOARD
+![Resultado Final](dashboard_final.png)
 
 Este projeto tem como finalidade apresentar uma interface com as principais métricas de desempenho do vosso computador.
 Todo o software aqui indicado pode correr diretamente na máquina em questão, sem necessidade de um raspberry.
 A utilização de um raspberry é apenas uma possivel solução, de forma a apresentar a interface no interior do computador.
-
-<!-- more -->
 
 # AVISO
 
@@ -74,10 +64,9 @@ A instalação do NodeJs no Windows pode ser feita acedendo a [Nodejs.org](https
 
 Caso tenham instalado no vosso sistema o *scoop*, podem instalar o NodeJs da seguinte forma:
 
-{% codeblock lang:bash %}
+```bash
 scoop install nodejs
-{% endcodeblock %}
-
+```
 
 Ou recorrendo ao ***nvm***:
 

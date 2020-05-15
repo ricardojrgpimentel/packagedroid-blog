@@ -7,15 +7,13 @@ tags:
   - launchers
 categories: 
  - Jogos
-thumbnail: /2020/01/01/game-launchers/gamelaunchers.png
+cover: https://packagedroid.com/2020/01/01/game-launchers/gamelaunchers.png
 ---
 
 Se alguma vez adquiriram um jogo, recorrendo a uma das centenas de lojas online, quase certo tiveram de instalar algum launcher, de forma a poderem jogar o mesmo.
 
 Esta necessidade fez-se acompanhar de vários pontos positivos, bem como negativos.
 Quem se lembra dos tempos em que era necessário procurar pelo cartucho do jogo, ou nos cuidados a ter para não riscar os cds?
-
-<!-- more -->
 
 De certa forma esse problema foi resolvido, se simplesmente tudo o que adquirimos for virtual, a única preocupação passa por não perder a conta de utilizador associado, ou o email utilizado no registo.
 Não só tornou-se mais fácil manter os jogos "guardados", como também tornou-se simples a forma de adquirir os mesmos.

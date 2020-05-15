@@ -5,13 +5,11 @@ tags:
   - windows
 categories: 
  - Sistemas Operativos
-thumbnail: /2020/01/14/limpeza-e-optimizacao-do-windows-limpeza-e-optimizacao-do-windows/windows10.jpg
+cover: https://packagedroid.com/2020/01/14/limpeza-e-optimizacao-do-windows-limpeza-e-optimizacao-do-windows/windows10.jpg
 ---
 
 A manutenção do Windows é um tópico importante para qualquer utilizador, visto que, esta tarefa é fundamental para manter a estabilidade de todo o sistema.
 A utilidade desta publicação passa por demonstrar vários cuidados a ter com o vosso sistema, de forma a manter OS limpo, rápido e livre de problemas.
-
-<!-- more -->
 
 ## Verificação do Disco
 

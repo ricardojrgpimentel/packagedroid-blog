@@ -7,14 +7,12 @@ tags:
   - splitstream
 categories: 
  - projeto
-thumbnail: /2019/12/28/projeto-splitstreamsite/ogimage.png
+cover: https://packagedroid.com/2019/12/28/projeto-splitstreamsite/ogimage.png
 ---
 
 O SplitStream nasceu da necessidade de poder assistir a duas ou mais streams ao mesmo tempo.
 
 Visto que, grande parte das plataformas existentes requerem a introdução do ***username***, decidi utilizar a API, disponibilizada pela própria Twitch, para criar uma interface similar à existente, no site da Twitch.
-
-<!-- more -->
 
 ![splitstream](8BDcCl5.jpg)
 
@@ -44,7 +42,7 @@ Para além destas opções, é ainda possível partilhar facilmente qualquer vis
 
 A partir do **URL** da página, para cada stream selecionada, é criada uma query string da seguinte forma:
 
-```bash
+```
 ?streamBox1=HighDistortion&streamBox2=SilverName&streamBox3=TimTheTatman&streamBox4=AdmiralBulldog
 ```
 

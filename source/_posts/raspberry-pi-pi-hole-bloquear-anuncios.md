@@ -7,7 +7,7 @@ tags:
 categories: 
   - Tutorial
   - Raspberry Pi
-thumbnail: /2019/09/22/raspberry-pi-pi-hole-bloquear-anuncios/20190922_172207.jpg
+cover: https://packagedroid.com/2019/09/22/raspberry-pi-pi-hole-bloquear-anuncios/20190922_172207.jpg
 ---
 
 A finalidade desde projeto passa por bloquear, ao nível do DNS, os seguintes serviços web:
@@ -15,8 +15,6 @@ A finalidade desde projeto passa por bloquear, ao nível do DNS, os seguintes se
 * Anúncios
 * Redes de tracking (rastreamento do tipo: Google Analytics, Facebook pixel, etc...)
 * Scripts de mining
-
-<!-- more -->
 
 No final da configuração será possivel adicionar outras opções de bloqueio, não estando limitado aos serviços acima descritos.
 
@@ -61,7 +59,7 @@ Para este passo vamos utlizar o cabo HDMI, o teclado e o monitor
 
 De forma a termos a certeza que o WiFi encontra-se a funcionar corretamente, vamos procurar pelas redes locais disponiveis com o seguinte comando:
 
-```bash
+```shell
 sudo iwlist wlan0 scan | grep ESSID
 ```
 
@@ -69,13 +67,13 @@ Esta procura deverá de resultar numa lista de redes WiFi disponiveis com a nome
 Na lista deverá de constar a vossa rede WiFi, devem de anotar o nome da mesma, no nosso caso o nome da rede é **NOS-EF32**
 Em seguida vamos editar o ficheiro no qual será salvo os dados de ligação à rede WiFi:
 
-```bash
+```shell
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
 Neste ficheiro vamos criar uma nova entrada com a seguinte estrutura:
 
-```bash
+```shell
 network={
   ssid="NOS-EF32"
   psk="PALAVRA-PASSE_DA_REDE"
@@ -85,12 +83,12 @@ network={
 Para guardar basta usar o atalho **CTRL + X** depois **Y** e em seguida **ENTER**
 Se tudo correr bem neste momento temos o nosso dispositivo pronto a ligar-se à rede WiFi, é possivel testar o mesmo com o comando ping:
 
-```bash
+```shell
 ping -c 5 google.pt
 ```
 O comando deverá de retorna 5 tentativas de ligação com o seguinte resultado:
 
-```bash
+```shell
 64 bytes from mad07s09-in-f3.1e100.net (172.217.17.3): icmp_seq=1 ttl=55 time=24.9 ms
 64 bytes from mad07s09-in-f3.1e100.net (172.217.17.3): icmp_seq=2 ttl=55 time=31.9 ms
 64 bytes from mad07s09-in-f3.1e100.net (172.217.17.3): icmp_seq=3 ttl=55 time=30.6 ms
@@ -104,7 +102,7 @@ Desta forma o nosso dispositivo encontra-se ligado à internet via WiFi.
 
 Para ativarmos o serviço SSH basta correr os seguintes comandos:
 
-```bash
+```shell
 sudo systemctl enable ssh
 sudo systemctl start ssh
 ```
@@ -124,9 +122,9 @@ Vamos utlizar um computador com Windows 10 e um Smartphone com Android.
 
 O Windows 10 dispõe de uma aplicação nativa que permite a ligação ao dispositivo via SSH.
 Esta aplicação encontra-se ativa e pronta a usar na ultima versão do Windows 10 (1903). 
-Para usar o cliente SSH basta abrir a Powerbash ou a linha de comandos e executar o seguinte comando:
+Para usar o cliente SSH basta abrir a PowerShell ou a linha de comandos e executar o seguinte comando:
 
-```bash
+```shell
 ssh NOME_DE_UTILIZADOR@IP_DO_RASPBERRY
 ```
 
@@ -139,7 +137,7 @@ Este pode ser encontrado acedendo ao painel de controlo do vosso Router.
 No nosso exemplo o ip do Raspberry é o **192.168.1.220**
 Com esta informação vamos então realizar a ligação ao Raspberry:
 
-```bash
+```shell
 ssh ip@192.168.1.220
 ```
 
@@ -178,7 +176,7 @@ Neste momento estão prontos a executar comandos remotamente.
 
 Para a instalação do Pi-Hole basta correr o seguinte comando:
 
-```bash
+```shell
 curl -sSL https://install.pi-hole.net | bash
 ```
 

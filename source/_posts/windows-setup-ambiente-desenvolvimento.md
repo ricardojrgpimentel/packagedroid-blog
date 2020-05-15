@@ -8,14 +8,12 @@ tags:
 categories: 
  - Windows
  - Sistemas Operativos
-thumbnail: /2020/03/30/windows-setup-ambiente-desenvolvimento/banner_windows_ambiente_dev.png
+cover: https://packagedroid.com/2020/03/30/windows-setup-ambiente-desenvolvimento/banner_windows_ambiente_dev.png
 ---
 
 # Introdução
 
 A configuração aqui documentada varia consoante as vossas necessidades, contudo, penso que a mesma abrange um grande número de *use cases*.
-
-<!-- more -->
 
 A principal utilização do Windows, no meu dia-a-dia, gira à volta do desenvolvimento web. Com isto a configuração aqui documentada está focada nas seguintes necessidades:
 
