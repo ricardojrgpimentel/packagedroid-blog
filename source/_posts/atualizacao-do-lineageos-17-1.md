@@ -17,11 +17,11 @@ Estas *ROM'S* são atualizadas, diariamente, com as últimas modificações da v
 
 O utilitário de atualização do LineageOS permite realizar o download das ultimas *builds* existentes e reiniciar o dispositivo em *recovery mode*.
 
-<img src="lineageos.png" alt="twrp" width="400"/>
+<img src="lineageos.png" alt="twrp1" width="400"/>
 
 O que leva o dispositivo a reiniciar diretamente para o **TWRP**, nele vamos selecionar a opção *INSTALL* e navegamos até à pasta **/data/lineageos_updates**
 
-<img src="twrp3.png" alt="twrp" width="400"/>
+<img src="twrp3.png" alt="twrp2" width="400"/>
 
 Aqui basta selecionar a última versão existente e instalar.
 

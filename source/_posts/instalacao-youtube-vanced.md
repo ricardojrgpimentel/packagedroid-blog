@@ -27,19 +27,19 @@ No repositório [github](https://topjohnwu.github.io/Magisk/install.html) devem 
 
 No modo de recuperação, neste caso o **TWRP** basta pressionar o botão **Install** 
 
-![twrp1](twrp1.png)
+<img src="twrp1.png" alt="twrp1" width="400"/>
 
 em seguida selecionar o ficheiro .zip 
 
-![twrp2](twrp2.png)
+<img src="twrp2.png" alt="twrp2" width="400"/>
 
 e deslizar para instalar
  
- ![twrp3](twrp3.png)
+ <img src='twrp3.png' alt='twrp3' width='400'/>
 
  Após a instalação basta reiniciar o *smartphone*, devem então de ter disponivel a aplicação **Magisk Manager**
 
- ![magisk1](magisk.png)
+ <img src='magisk.png' alt='magisk1' width='400'/>
 
  ## EdXposed
 
@@ -52,13 +52,13 @@ e deslizar para instalar
 
  Devem de reiniciar o vosso *smartphone* após a instalação de ambos os modulos, de forma a ativar os mesmos, uma correta instalação e ativação resulta no seguinte ecrã:
 
-![magisk2](magisk2.png)
+<img src='magisk2.png' alt='magisk2' width='400'/>
 
 Com isto vamos abrir a aplicação **EdXposed** e selecionar o separador *Canary*, aqui vamos pressionar o botão **Install/Update** que deverá de iniciar o *download* de um ficheiro **.zip**, este deve de ser instalado pelo **TWRP** da mesma forma que fizemos com o **Magisk**.
 
 Após a instalação a aplicação deverá de apresentar a seguinte mensagem a azul:
 
-![edxposed1](edxposed.png)
+<img src='edxposed.png' alt='edxposed1' width='400'/>
 
 ## CorePatch
 
@@ -77,7 +77,7 @@ Com a aplicação instalada vamos então ativar as seguintes opções:
 * Allow app downgrades
 * Disable Package Manager Signature Verification
 
-![corepatch1](corepatch.png)
+<img src='corepatch.png' alt='corepatch1' width='400'/>
 
 ## SAI
 
@@ -91,6 +91,6 @@ Agora que temos todos os recursos instalados, vamos então instalar o **Vanced**
 
 De seguida basta abrir a aplicação SAI e selecionar o ficheiro *.apks* obtido no passo a cima, a instalação resultará no seguinte ecrã:
 
-![sai1](sai.png)
+<img src='sai.png' alt='sai1' width='400'/>
 
 Com isto o **Vanced** encontra-se agora instalado no vosso sistema.
